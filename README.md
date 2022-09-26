@@ -12,3 +12,6 @@ import mxnet as mx
 a = nd.array([1, 2, 3], ctx=mx.gpu())
 print(a)
 ```
+
+# Reference
+https://aitechtogether.com/ai-question/9402.html
