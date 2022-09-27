@@ -1,5 +1,5 @@
 # ReadMe
-These are compiled binaries（libmxnet.dll and mxnet_xx.dll）and their DLL dependencies on Windows.
+There are compiled binaries（libmxnet.dll and mxnet_xx.dll）and their DLL dependencies on Windows.
 
 1. Looking on the filename which have edition of mxnet, cuda, and python.
 2. To extract a zip file to mxnet/python/mxnet/ . 
